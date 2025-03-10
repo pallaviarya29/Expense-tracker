@@ -3,7 +3,7 @@
 This is a simple Python script to track daily expenses and save them to a CSV file. Each entry includes the current date and the recorded expense amount.
 
 
-**Features**
+##Features
 1.Records expenses with a date stamp
 2.Saves data in a CSV file
 3.Displays total daily expenses
