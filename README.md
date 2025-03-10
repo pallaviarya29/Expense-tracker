@@ -10,9 +10,9 @@ This is a simple Python script to track daily expenses and save them to a CSV fi
 
 
 ## Usage
-Run the script and enter expenses one by one.
-Type 0 to stop entering expenses.
-The script will display all recorded expenses and their total sum.
+1. Run the script and enter expenses one by one.
+2. Type 0 to stop entering expenses.
+3. The script will display all recorded expenses and their total sum.
 
 
 ## How to Run
@@ -24,20 +24,20 @@ The script will display all recorded expenses and their total sum.
 
 
 ## Example Output
-What is the expense? (Type 0 to stop): 50
-What is the expense? (Type 0 to stop): 30
-What is the expense? (Type 0 to stop): 0
-Your expenses today: [50, 30]
-Total sum of expenses: 80
+1. What is the expense? (Type 0 to stop): 50
+2. What is the expense? (Type 0 to stop): 30
+3. What is the expense? (Type 0 to stop): 0
+4. Your expenses today: [50, 30]
+5. Total sum of expenses: 80
 
 
 ## File Structure
 /Expense-Tracker
-│── README.md
-│── expense_tracker.py
-│── test.csv (generated after running the script)
+1. README.md
+2. expense_tracker.py
+3. test.csv (generated after running the script)
 
 
 ## Technologies Used
-Python
-CSV module
+1. Python
+2. CSV module
